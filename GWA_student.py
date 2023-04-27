@@ -13,4 +13,10 @@ with open("students_gwa.txt") as students_gwa_file:
         # minus 5.0 to input_gwa that will be converted to float
         input_gwa= 5.0 - float(input_gwa)
 
-print(input_gwa)
+        # check if the gwa of the current student is higher than the highest gwa
+        if input_gwa > highest_gwa:
+            highest_gwa = input_gwa
+            highest_gwa_name = input_name
+
+    print (highest_gwa)
+    print(highest_gwa_name)
