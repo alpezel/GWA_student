@@ -18,5 +18,9 @@ with open("students_gwa.txt") as students_gwa_file:
             highest_gwa = input_gwa
             highest_gwa_name = input_name
 
-    print (highest_gwa)
-    print(highest_gwa_name)
+# minus the highest gwa from 5.0 to get actual gwa 
+# (instead of getting 3.92 as the gwa it will be (5.0-3.92 = 1.08))
+highest_gwa = 5.0 - highest_gwa
+
+print (highest_gwa)
+print(highest_gwa_name)
