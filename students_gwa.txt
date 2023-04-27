@@ -1,20 +1,20 @@
-Maria Santos 1.75
-Juan Cruz 2.50
-Jose Garcia 2.0
-Angelica Reyes 1.36
-Ramon Dela Cruz 1.83
-Teresa Rodriguez 2.13
-Carlo Aquino 1.90
-Rafael Gonzales 1.50
-Anna Rivera 1.21
-Eduardo Manalo 3.0
-Ysabel Jimenez 2.24
-Diego Santos 4.0
-Maricel Fernandez 3.0
-Romeo Santos 2.0
-Myra Velasco 1.52
-Marco Reyes 1.67
-Leah Pascual 1.13
-Roberto Santos 1.85
-Imelda Cruz 1.08
-Alejandro Villanueva 5.0
+Maria 1.75
+Juan 2.50
+Jose 2.0
+Angelica 1.36
+Ramon  1.83
+Teresa 2.13
+Carlo 1.90
+Rafael 1.50
+Anna 1.21
+Eduardo 3.0
+Ysabel 2.24
+Diego 4.0
+Maricel 3.0
+Romeo 2.0
+Myra 1.52
+Marco 1.67
+Leah 1.13
+Roberto 1.85
+Imelda 1.08
+Alejandro 5.0
