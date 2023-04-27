@@ -2,13 +2,15 @@
 #together with their GWA. The program will outputs the name of the student 
 #who got the highest GWA (including the GWA).
 
+#initial value of highest gwa and students name
+highest_gwa= 0
+highest_gwa_name= ""
 # open students_gwa.txt (read)
 with open("students_gwa.txt") as students_gwa_file:
     # read students_gwa.txt each line
     for line in students_gwa_file:
         input_name, input_gwa = line.split()
-        input_gwa= float(input_gwa)
-    
-    #gwa= []
-    #gwa.append(input_gwa)
-    print (input_gwa)
+        # minus 5.0 to input_gwa that will be converted to float
+        input_gwa= 5.0 - float(input_gwa)
+
+print(input_gwa)
