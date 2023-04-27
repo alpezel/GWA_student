@@ -22,5 +22,5 @@ with open("students_gwa.txt") as students_gwa_file:
 # (instead of getting 3.92 as the gwa it will be (5.0-3.92 = 1.08))
 highest_gwa = 5.0 - highest_gwa
 
-print (highest_gwa)
-print(highest_gwa_name)
+# add colors in output
+print ("The student who got the highest GWA is","\033[3;31m", highest_gwa_name, "\033[;37m""with","\033[4;33m",highest_gwa,"GWA","\033[;37m")
